@@ -1,0 +1,28 @@
+body{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: chartreuse;
+}
+
+a{
+color: darkmagenta;
+    text-decoration: none;
+}
+
+a:hover{
+    color:blueviolet    
+}
+
+a:visited{
+    /* color: crimson: */
+
+}
+nav ul a,
+h1{
+    color: coral;
+}
+ul{
+     display:  flex;
+     justify-content: space-between;
+     list-style: none;
+}
+body                
